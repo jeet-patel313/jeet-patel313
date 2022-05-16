@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills: Solidity | Node JS | Python
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeet-patel313)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/idjot/)  
+
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-patel313)] </p>
+
+<p align="center"> [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeet-patel313)] </p>
+
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeet-patel313" alt="jeet-patel313" /> </p>
+<p align="center"> <img src="https://gpvc.arturio.dev/jeet-patel313" alt="jeet-patel313" /> </p>
