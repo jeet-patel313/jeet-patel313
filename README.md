@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+[https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f9d1-1f3fb-200d-1f4bb.svg]
+
+## My name is Jeet and I am a first year computer science graduate student at California State University Long Beach holding a GPA of 4. I have recently completed my Bachelor’s in Computer Engineering from Indus University (INDIA) and graduated with a CGPA of 9.68/10. I have worked with a company named Solulab Inc. as a blockchain developer intern where I performed various tasks on Solidity and NodeJS. I have a few blockchain certifications from renowned organizations(IBM, University of Buffalo). I have developed multiple web APIs and smart contract which include but not limited to wallet API, ICO contract, Token Vesting contract, Marketplace smart contract, NFT staking smart contract. I am currently developing interesting personal projects. Let's connect and get the ball rolling =)
 
 <!--
 **jeet-patel313/jeet-patel313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
