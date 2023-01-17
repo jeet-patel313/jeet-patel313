@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 # Let's Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/idjot/)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-patel313)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-patel313) -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeet-patel313) -->
 
