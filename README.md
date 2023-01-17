@@ -1,11 +1,10 @@
 # Hi there 👋
 
-#### - My name is Jeet and I am a first year computer science graduate student at California State University Long Beach holding a GPA of 4. 
+#### My name is Jeet and I am a first year computer science graduate student at California State University Long Beach holding a GPA of 4. 
 #### - I have recently completed my Bachelor’s in Computer Engineering from Indus University (INDIA) and graduated with a CGPA of 9.68/10. 
 #### - I have worked with a company named Solulab Inc. as a blockchain developer intern where I performed various tasks on Solidity and NodeJS. 
 #### - I have a few blockchain certifications from renowned organizations(IBM, University of Buffalo). 
 #### - I have developed multiple web APIs and smart contract which include but not limited to wallet API, ICO contract, Token Vesting contract, Marketplace smart contract, NFT staking smart contract. 
-I am currently developing interesting personal projects.
 
 <!--
 **jeet-patel313/jeet-patel313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 # Let's Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/idjot/)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-patel313)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet-patel313) -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeet-patel313)
 
