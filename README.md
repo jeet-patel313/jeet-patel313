@@ -3,7 +3,7 @@
 * 👨‍🎓My name is Jeet and I am a first year computer science graduate student at California State University Long Beach holding a GPA of 4. <br>
 * 🎓I have recently completed my Bachelor’s in Computer Engineering from Indus University (INDIA) and graduated with a CGPA of 9.68/10. <br>
 * 👨‍💻I am seeking an internship opportunity that will enable me to refine my coding skills and foster my growth as a software developer. <br>
-* 🔥I have also completed blockchain certifications from renowned organizations(IBM, University of Buffalo). <br>
+* 🔥I have also completed blockchain certifications from renowned organizations which include IBM and University of Buffalo. <br>
 * 💥I have developed multiple smart contracts which include but not limited to ICO contract, Token Vesting contract, Marketplace smart contract and NFT staking smart contract using industry standard ERC20, ERC721 and ERC1155. 
 
 <!--
