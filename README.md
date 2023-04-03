@@ -32,11 +32,11 @@
         <td><img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="NodeJS" width="200px"/></td>
         <td><img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" alt="C++" width="200px"/></td>
         <td><img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="React" width="200px"/></td>
-    </tr>
-    <tr>
         <td><img src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg" alt="JavaScript" width="200px"/></td>
         <td><img src="https://brandeps.com/logo-download/D/Django-CMS-logo-vector-01.svg" alt="JavaScript" width="200px"/></td>
-        <td><img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" alt="JavaScript" width="200px"/></td>        
+        <td><img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" alt="JavaScript" width="200px"/></td>  
+    </tr>
+    <tr>
         <td><img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="JavaScript" width="200px"/></td>    
         <td><img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="JavaScript" width="200px"/></td>
     </tr> 
