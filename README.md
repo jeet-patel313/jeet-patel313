@@ -8,13 +8,13 @@
 <br />
 <br />
 
-- 👨‍🎓 I am a first year computer science graduate student at California State University Long Beach holding a GPA of 4.
+- 👨‍🎓 I am a computer science graduate from California State University Long Beach holding a GPA of 4.
 
-- 🎓 I have recently completed my Bachelor’s in Computer Engineering from Indus University (INDIA) and graduated with a CGPA of 9.68/10.
+- 🎓 I have recently completed my Masters in Computer Science from CSULB and my Bachelor’s in Computer Engineering from Indus University (INDIA) and graduated with a CGPA of 9.68/10.
 
-- 👨‍💻 I am seeking an internship opportunity that will enable me to refine my coding skills and foster my growth as a software developer. 
+- 👨‍💻 I am seeking a full-time opportunity that will enable me to refine my coding skills and foster my growth as a software developer. 
 
-- 💥 I have developed multiple smart contracts which include but not limited to ICO contract, Token Vesting contract, Marketplace smart contract and NFT staking smart contract using industry standard ERC20, ERC721 and ERC1155.
+- 💥 I have developed multiple REST API's using many programming languages like Asp.Net, Node.js and I have knowledge in various computer science related technologies like web development, blockchain, cyber security and I am confident in my abilities to create the next big thing in technology. And for that I need your help to get started. Reach out to me for knowing more about me on Linkedin or if you have any opportunity that might be a right fit for me.
 
 <br />
 <h3 align="left">Connect with me:</h3>
