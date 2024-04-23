@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jeet</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer available to hire for full-time(USA)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeet-patel313&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-patel313" /> </p>
 
