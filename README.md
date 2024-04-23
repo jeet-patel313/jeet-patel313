@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/jeet-patel313/jeet-patel313/blob/main/Jeet.png)
 <h1 align="center">Hi there 👋, I'm Jeet</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
