@@ -26,8 +26,8 @@
 
 <table>
     <tr>  
-        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5k17n_8iE9ipczWJqsYNtDL10IdK2cwnTq9ARloO9ScsZw7Q9Ics&usqp=CAE&s" alt="Ethereum" width="200px"/></td>
-        <td><img src="https://ethereum.org/static/6b935ac0e6194247347855dc3d328e83/cdbe4/eth-diamond-black.webp" alt="Ethereum" width="200px"/></td>
+        <td><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5k17n_8iE9ipczWJqsYNtDL10IdK2cwnTq9ARloO9ScsZw7Q9Ics&usqp=CAE&s](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="200px"/></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".Net Core Logo" width="200px"/></td>
         <td><img src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" alt="NodeJS" width="200px"/></td>
         <td><img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" alt="C++" width="200px"/></td>
         <td><img src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="React" width="200px"/></td>
